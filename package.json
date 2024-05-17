@@ -1,0 +1,27 @@
+{
+  "name": "quiz-cli-using-inquirer",
+  "version": "1.0.2",
+  "description": "",
+  "main": "dist/main.js",
+  "bin": {
+    "quiz-cli-using-inquirer": "dist/main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quiz",
+    "inquirer",
+    "Humayun"
+  ],
+  "author": "Humayun",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.12"
+  },
+  "type": "module"
+}
